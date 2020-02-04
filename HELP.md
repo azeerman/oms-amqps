@@ -2,6 +2,12 @@ RABBIT AMQPS
 
 Clone from : https://github.com/spring-projects/spring-amqp-samples
 
+
+# Start
+
+docker-compose -f docker-compose.yml up
+
+
 # LOGS
 
 com.rabbitmq.client

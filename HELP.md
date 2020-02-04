@@ -1,5 +1,7 @@
 RABBIT AMQPS
 
+Clone from : https://github.com/spring-projects/spring-amqp-samples
+
 # LOGS
 
 com.rabbitmq.client
